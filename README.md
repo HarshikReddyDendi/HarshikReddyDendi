@@ -81,14 +81,14 @@ Advanced deep learning model for real-time weapon detection in images and video 
 **Tech Stack:** Python | TensorFlow | Deep Learning | CNN | OpenCV
 
 ---
-
+ 
 ### 📊 Customer Shopping Behavior Analysis
-[![Repository](https://img.shields.io/badge/Repository-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshikReddyDendi)
-
+[![Repository](https://img.shields.io/badge/Repository-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshikReddyDendi/Customer-Shopping-Behavior-Analysis)
+ 
 Comprehensive data analytics project analyzing customer purchasing patterns, segmentation, and behavior trends. Created interactive **Power BI dashboards** for business intelligence and decision-making.
-
+ 
 **Tech Stack:** Python | SQL | PostgreSQL | Power BI | Data Analytics | Pandas
-
+ 
 </div>
 
 ---
