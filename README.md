@@ -74,7 +74,7 @@ Currently focused on:
 <div align="center">
 
 ### 🎯 Weapon Detection Using Deep Learning
-[![Repository](https://img.shields.io/badge/Repository-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshikReddyDendi)
+[![Repository](https://img.shields.io/badge/Repository-DC143C?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/HarshikReddyDendi](https://github.com/HarshikReddyDendi/Weapon-Detection-using-deep-learning-for-Surveillance-systems))
 
 Advanced deep learning model for real-time weapon detection in images and video streams. Built with **TensorFlow/Keras**, achieving high accuracy through **CNN architecture** and data augmentation techniques.
 
